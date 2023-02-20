@@ -9,7 +9,7 @@ root.geometry('1080x400')
 root.resizable(0,0)
 root.config(bg = 'ghost white')
 
-root.title("Project NEWBIES--Language Translator")
+root.title("Project newbies--Language Translator")
 
 Label(root, text = "LANGUAGE TRANSLATOR", font = "arial 20 bold", bg='white smoke').pack()
 
